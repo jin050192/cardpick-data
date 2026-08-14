@@ -1,24 +1,66 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "issuers": [
+    {
+      "issuer": "BC 바로카드",
+      "file": "cards/bc.json",
+      "updatedAt": "2026-08-14",
+      "cardCount": 4
+    },
+    {
+      "issuer": "하나카드",
+      "file": "cards/hana.json",
+      "updatedAt": "2026-08-14",
+      "cardCount": 221
+    },
+    {
+      "issuer": "현대카드",
+      "file": "cards/hyundai.json",
+      "updatedAt": "2026-08-14",
+      "cardCount": 85
+    },
+    {
+      "issuer": "IBK기업은행",
+      "file": "cards/ibk.json",
+      "updatedAt": "2026-08-14",
+      "cardCount": 56
+    },
     {
       "issuer": "KB국민카드",
       "file": "cards/kb.json",
-      "updatedAt": "2026-08-11",
-      "cardCount": 1
+      "updatedAt": "2026-08-14",
+      "cardCount": 118
+    },
+    {
+      "issuer": "롯데카드",
+      "file": "cards/lotte.json",
+      "updatedAt": "2026-08-14",
+      "cardCount": 256
+    },
+    {
+      "issuer": "NH농협카드",
+      "file": "cards/nh.json",
+      "updatedAt": "2026-08-14",
+      "cardCount": 129
     },
     {
       "issuer": "삼성카드",
       "file": "cards/samsung.json",
-      "updatedAt": "2026-08-13",
-      "cardCount": 20
+      "updatedAt": "2026-08-14",
+      "cardCount": 143
     },
     {
       "issuer": "신한카드",
       "file": "cards/shinhan.json",
-      "updatedAt": "2026-08-11",
-      "cardCount": 2
+      "updatedAt": "2026-08-14",
+      "cardCount": 9
+    },
+    {
+      "issuer": "우리카드",
+      "file": "cards/woori.json",
+      "updatedAt": "2026-08-14",
+      "cardCount": 139
     }
   ]
 }
