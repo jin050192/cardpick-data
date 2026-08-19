@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15",
+  "updatedAt": "2026-08-19",
   "issuers": [
     {
       "issuer": "BC 바로카드",
@@ -137,8 +137,8 @@
     {
       "issuer": "신한카드",
       "file": "cards/shinhan.json",
-      "updatedAt": "2026-08-15",
-      "cardCount": 360
+      "updatedAt": "2026-08-19",
+      "cardCount": 415
     },
     {
       "issuer": "신협",
