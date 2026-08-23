@@ -126,7 +126,7 @@
       "issuer": "삼성카드",
       "file": "cards/samsung.json",
       "updatedAt": "2026-08-19",
-      "cardCount": 391
+      "cardCount": 666
     },
     {
       "issuer": "SC카드",
@@ -161,8 +161,8 @@
     {
       "issuer": "우리카드",
       "file": "cards/woori.json",
-      "updatedAt": "2026-08-14",
-      "cardCount": 234
+      "updatedAt": "2026-08-19",
+      "cardCount": 324
     },
     {
       "issuer": "유안타증권",
