@@ -47,8 +47,8 @@
     {
       "issuer": "현대카드",
       "file": "cards/hyundai.json",
-      "updatedAt": "2026-08-14",
-      "cardCount": 196
+      "updatedAt": "2026-08-19",
+      "cardCount": 273
     },
     {
       "issuer": "IBK기업은행",
