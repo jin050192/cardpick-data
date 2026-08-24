@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-08-24",
   "issuers": [
     {
       "issuer": "BC 바로카드",
@@ -47,7 +47,7 @@
     {
       "issuer": "현대카드",
       "file": "cards/hyundai.json",
-      "updatedAt": "2026-08-19",
+      "updatedAt": "2026-08-24",
       "cardCount": 279
     },
     {
