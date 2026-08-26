@@ -113,8 +113,8 @@
     {
       "issuer": "NH농협카드",
       "file": "cards/nh.json",
-      "updatedAt": "2026-08-14",
-      "cardCount": 166
+      "updatedAt": "2026-08-24",
+      "cardCount": 310
     },
     {
       "issuer": "우체국",
